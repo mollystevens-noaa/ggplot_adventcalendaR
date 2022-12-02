@@ -2,7 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-
-
-.nb
-.html
+*.nb
+*.html
